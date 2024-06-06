@@ -1,0 +1,17 @@
+.relogio-container {
+    width: 200px; 
+    height: 200px;
+    background-color: #000000;
+    color: white;
+    font-size: 38px; 
+    border-radius: 30%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 4px 8px rgba(0, 0, 0, 0.2);
+    color: rgb(255, 98, 0);
+  }
+  h2{
+    color: rgb(255, 98, 0);
+    font-size: 47px;
+  }
